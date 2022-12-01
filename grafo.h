@@ -3,7 +3,7 @@
 // File: main.cpp
 // Author: Ricardo Navarro Gómez - A01708825
 //		   Alain Vicenzio Arizabalo - A01620758
-// 		   Fernando Josué Matute Soto - A008
+// 		   Fernando Josué Matute Soto - A00833375
 // Date: 25/11/22
 //
 // =================================================================
