@@ -66,7 +66,7 @@ int main(int argc, char* argv[]) {
 			currentDepth++;
 		}
 
-		mysolution<<"Case "<<i+1<<": "<<graph.numVertices()-neighbors.size()<<" ports not reachable from port "<<startCity<<" with MNP = "<<depth<<"."<< endl;
+		mysolution<<"Case "<<i+1<<": "<<graph.numVertex()-neighbors.size()<<" ports not reachable from port "<<startCity<<" with MNP = "<<depth<<"."<< endl;
 	}
 
 	input.close();
